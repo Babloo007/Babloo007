@@ -78,13 +78,13 @@ I am a passionate Full Stack web developer. I am constantly learning and strivin
 ## 📊 Statistics  
 <div align="center">
   <div style="display: flex;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Babloo007&theme=nord_dark" style="width: 100%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Babloo007&theme=nord_dark" style="width: 100%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Babloo007&theme=nord_dark" style="width: 100%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Babloo007&theme=nord_dark" style="width: 60%; height:70%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Babloo007&theme=nord_dark" style="width: 60%; height:60%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Babloo007&theme=nord_dark&utcOffset=8" style="width: 60%; height:60%" />
   </div>
 </div>
 
 <br> 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishk4514) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saivenkat-mallela) 
