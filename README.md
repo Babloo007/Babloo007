@@ -20,7 +20,7 @@ I am a passionate Full Stack web developer. I am constantly learning and strivin
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **<a href="[https://www.linkedin.com/in/saivenkat-mallela](https://www.linkedin.com/in/saivenkatmallela/)" target="_blank">LinkedIn</a> & GitHub**
+- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/saivenkat-mallela" target="_blank">LinkedIn</a> & GitHub**
 
 - 📫 Reach me on **msvreddy77@gmail.com** 
 
@@ -28,7 +28,7 @@ I am a passionate Full Stack web developer. I am constantly learning and strivin
  
 - 🌐 Have a look at my <a href="https://portfolio-babloo7.vercel.app/" target="_blank">Portfolio</a>
 
-- 📄 Download my <a href="[https://drive.google.com/file/d/1vhOrWvGqdCA9NHk8qL77O99A3C2qZnf7/view?usp=share_link](https://drive.google.com/file/d/1FBOF4_eXC76HO_f1BjYL9B1kdaze9uIS/view?usp=sharing)" target="_target">Resume</a>
+- 📄 Download my <a href="https://drive.google.com/file/d/1aTV8j8iJRNSYi3d8HCpx31nkZYEtB2QU/view" target="_target">Resume</a>
 
 
 
