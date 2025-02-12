@@ -28,7 +28,7 @@ I am a passionate Full Stack web developer. I am constantly learning and strivin
  
 - 🌐 Have a look at my <a href="https://portfolio-babloo7.vercel.app/" target="_blank">Portfolio</a>
 
-- 📄 Download my <a href="https://drive.google.com/file/d/1aTV8j8iJRNSYi3d8HCpx31nkZYEtB2QU/view" target="_target">Resume</a>
+- 📄 Download my <a href="https://drive.google.com/file/d/1aTV8j8iJRNSYi3d8HCpx31nkZYEtB2QU/view" target="_blank">Resume</a>
 
 
 
